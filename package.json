@@ -12,7 +12,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
-  "homepage": "https://erwinangeles.github.io/clicky-game",
+  "homepage": "https://erwinangeles.github.io/clickygame",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
